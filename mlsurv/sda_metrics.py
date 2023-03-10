@@ -3,7 +3,7 @@ An adaptation of metrics.py
 https://github.com/sebp/scikit-survival/blob/v0.20.0/sksurv/metrics.py
 """
 
-import numpy
+import numpy, sksurv
 from scipy.integrate import trapz
 from sklearn.utils import check_consistent_length, check_array
 
