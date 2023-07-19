@@ -9,7 +9,7 @@ pip install git+https://github.com/lisatwyw/mlsurv
 ## Possible benchmarks
 
 ```
-pip install SurvSet
+!pip install SurvSet
 ```
 
 | Variable name | $n$ | $k$| Source |
